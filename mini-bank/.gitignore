@@ -1,0 +1,7 @@
+# generated data (Practical 11: do not commit)
+data/
+# build output
+target/
+out/
+*.class
+*.jar
